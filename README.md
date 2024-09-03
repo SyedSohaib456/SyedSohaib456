@@ -1,6 +1,6 @@
 # Syed Sohaib Hussain
 
-**Full-Stack Web Developer | Robotics Champion | Microsoft Word Certified Professional**
+**Front-end Web Developer | Robotics Champion | Microsoft Word Certified Professional**
 
 ---
 
@@ -12,7 +12,7 @@ Hello! I'm **Syed Sohaib Hussain**, a passionate Full-Stack Web Developer dedica
 
 **Skills & Interests:**
 
-- **Web Development**: Front-end and back-end development using HTML, CSS, JavaScript, React, Node.js, and more.
+- **Web Development**: Front-end using HTML, CSS, JavaScript, React, and more.
 - **Robotics**: Designing and programming robots; winner of multiple robotics competitions.
 - **Problem Solver**: Enjoy tackling complex problems and creating efficient solutions.
 - **Communication**: Strong verbal and written communication skills; adept at collaborating in team environments and presenting technical concepts to non-technical stakeholders.
