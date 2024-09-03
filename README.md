@@ -6,7 +6,7 @@
 
 **About Me:**
 
-Hello! I'm **Syed Sohaib Hussain**, a passionate Full-Stack Web Developer dedicated to building innovative and efficient web solutions. I excel in creating seamless user experiences and integrating modern technologies to drive impactful results. As a Robotics Champion, I thrive on challenges that require creativity and technical expertise.
+Hello! I'm **Syed Sohaib Hussain**, a passionate Front-End Web Developer dedicated to building innovative and efficient web solutions. I excel in creating seamless user experiences and integrating modern technologies to drive impactful results. As a Robotics Champion, I thrive on challenges that require creativity and technical expertise.
 
 ---
 
@@ -20,7 +20,7 @@ Hello! I'm **Syed Sohaib Hussain**, a passionate Full-Stack Web Developer dedica
 
 **Currently Learning:**
 
-- Advanced front-end frameworks: React, MERN
+- Advanced front-end frameworks: React
 - Backend technologies and microservices architecture
 
 ---
@@ -36,7 +36,7 @@ Hello! I'm **Syed Sohaib Hussain**, a passionate Full-Stack Web Developer dedica
 **Projects & Achievements:**
 
 - **Robotics Competitions**: Winner of several exhibitions and competitions.
-- **Web Projects**: Developed responsive and scalable web applications for diverse clients.
+- **Web Projects**: Developed responsive and scalable web applications.
 - **Certifications**: Microsoft Word Certified Professional, showcasing proficiency in productivity tools.
 
 ---
