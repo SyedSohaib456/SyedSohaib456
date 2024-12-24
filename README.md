@@ -23,6 +23,8 @@ I'm a **Front-End Developer** with a focus on **JavaScript**, **TypeScript**, an
 
 # 📊 GitHub Stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SyedSohaib456&layout=compact&theme=radical)
+![TypeScript](https://img.shields.io/badge/TypeScript-%232b7489.svg?style=flat&logo=typescript&logoColor=white)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SyedSohaib456&icon=0&color=0)](https://visitcount.itsvg.in)
