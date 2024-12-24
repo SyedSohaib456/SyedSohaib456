@@ -23,8 +23,6 @@ I'm a **Front-End Developer** with a focus on **JavaScript**, **TypeScript**, an
 
 # 📊 GitHub Stats:
 ![](https://raw.githubusercontent.com/SyedSohaib456/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/SyedSohaib456/github-stats/master/generated/overview.svg#gh-light-mode-only)
-
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SyedSohaib456&icon=0&color=0)](https://visitcount.itsvg.in)
