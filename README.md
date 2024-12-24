@@ -22,7 +22,7 @@ I'm a **Front-End Developer** with a focus on **JavaScript**, **TypeScript**, an
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 # 📊 GitHub Stats:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SyedSohaib456&layout=compact&theme=radical)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=SyedSohaib456&show_icons=true&count_private=true&hide=prs&theme=radical&custom_title=My%20GitHub%20Stats&bg_color=FFFFFF&title_color=2E80EC&text_color=000000&icon_color=2E80EC&border_radius=10&font=serif)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SyedSohaib456&layout=compact&theme=radical&langs_count=6)
 
 ---
