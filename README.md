@@ -22,7 +22,7 @@ I'm a **Front-End Developer** with a focus on **JavaScript**, **TypeScript**, an
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 # 📊 GitHub Stats:
-<div style="display: flex; justify-content: space-between; align-items: flex-start; lex-direction: row">
+<div style="display: flex; justify-content: space-between; align-items: flex-start; lex-direction: row ; width:'100%'">
   <!-- Language Chart on the Left -->
   <div style="flex: 1; margin-right: 20px;">
     <a href="https://github.com/SyedSohaib456/github-readme-stats">
