@@ -24,7 +24,7 @@ I'm a **Front-End Developer** with a focus on **JavaScript**, **TypeScript**, an
 # 📊 GitHub Stats:
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/SyedSohaib456?cardType=octocat&theme=github&preferLogin=false)](https://git.io/awesome-stats-card)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/SyedSohaib456)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=5)](https://github.com/SyedSohaib456)
 
 [![SyedSohaib456's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=SyedSohaib456&hide=python,shell,batchfile,dockerfile,jupyter%20notebook,blade&theme=algolia&show_icons=true)](https://github.com/SyedSohaib456)
 ---
