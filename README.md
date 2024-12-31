@@ -22,26 +22,8 @@ I'm a **Front-End Developer** with a focus on **JavaScript**, **TypeScript**, an
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 # 📊 GitHub Stats:
-<div style="display: flex; justify-content: space-between; align-items: flex-start; lex-direction: row ; width:'100%'">
-  <!-- Language Chart on the Left -->
-  <div style="flex: 1; margin-right: 20px;">
-    <a href="https://github.com/SyedSohaib456/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie" alt="Top Langs" />
-    </a>
-  </div>
-
-  <!-- Stats on the Right (Stacked) -->
-  <div style="flex: 1; display: flex; flex-direction: column; justify-content: flex-start; align-items: flex-start;">
-    <a href="https://github.com/SyedSohaib456/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=SyedSohaib456&show_icons=true&theme=radical" alt="Anurag's GitHub Stats" />
-    </a>
-    <br/>
-    <a href="https://git.io/awesome-stats-card">
-      <img src="https://awesome-github-stats.azurewebsites.net/user-stats/SyedSohaib456?cardType=octocat&theme=github&preferLogin=false" alt="My Awesome Stats" />
-    </a>
-  </div>
-
-</div>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/SyedSohaib456/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SyedSohaib456&show_icons=true&theme=radical)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/SyedSohaib456?cardType=octocat&theme=github&preferLogin=false)](https://git.io/awesome-stats-card)
 ---
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
