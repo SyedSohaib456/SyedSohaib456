@@ -57,10 +57,13 @@ I started my journey from **front-end web development with React.js** and later 
 
 ## 📊 GitHub Activity Overview
 
+### My GitHub Stats
 ![Syed Sohaib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SyedSohaib456&show_icons=true&theme=radical&hide_border=true)
 
+### My GitHub Streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=SyedSohaib456&theme=radical&hide_border=true)
 
+### My Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SyedSohaib456&layout=compact&theme=radical&hide_border=true)
 
 ---
