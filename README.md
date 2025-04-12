@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm Syed Sohaib Hussain
 
-### 📱 Mobile-First Developer | 🖥️ Front-End Explorer | 🚀 Tech Enthusiast
+###📱 Mobile-First Developer | 🖥️ Front-End Explorer | 🚀 Tech Enthusiast
 
 Hi — I'm a passionate **React Native Developer** focused on building high-performance, cross-platform mobile applications using **React Native**, **Expo**, and **CLI**.  
 I started my journey from **front-end web development with React.js** and later fell in love with crafting beautiful, functional mobile app experiences.
