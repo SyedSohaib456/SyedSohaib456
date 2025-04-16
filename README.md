@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm Syed Sohaib Hussain ...
+# 👋 Hey there! I'm Syed Sohaib Hussain ..
 
 ### 📱 Mobile-First Developer | 🖥️ Front-End Explorer | 🚀 Tech Enthusiast
 
