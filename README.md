@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Syed Sohaib Hussain</h1>
+<h1 align="center">Hi, I'm Syed Sohaib Hussain</h1>
 <p align="center">
   <b>Mobile-First Developer | Front-End Explorer | Tech Enthusiast</b>
 </p>
