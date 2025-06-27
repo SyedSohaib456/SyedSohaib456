@@ -1,10 +1,3 @@
-<!-- Banner or Profile GIF (optional) -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=23272f,1e293b,0e1117&height=120&section=header&text=Syed%20Sohaib%20Hussain&fontSize=38&fontAlignY=35&desc=React%20Native%20Developer%20%7C%20Front-End%20Explorer&descSize=18&descAlign=60&fontColor=fff" alt="Syed Sohaib Hussain Banner"/>
-</p>
-
-<!-- ![Banner](https://your-image-link.com/banner.gif) -->
-
 <h1 align="center">👋 Hi, I'm Syed Sohaib Hussain</h1>
 <p align="center">
   <b>Mobile-First Developer | Front-End Explorer | Tech Enthusiast</b>
