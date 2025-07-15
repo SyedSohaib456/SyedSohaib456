@@ -8,7 +8,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 I'm a passionate **React Native Developer** with a knack for building high-performance, cross-platform mobile apps. My journey began in **front-end web development (React.js)**, but I soon found my calling in crafting beautiful, functional mobile experiences. I thrive on solving real-world problems with clean code, modern design, and a sprinkle of animation magic.
 
