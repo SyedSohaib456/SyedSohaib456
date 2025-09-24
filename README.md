@@ -309,11 +309,20 @@ const professionalProfile = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SyedSohaib456&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+<table>
+<tr>
+<td align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=SyedSohaib456&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="495"/>
+</td>
+<td align="center">
+<img src="https://streak-stats.demolab.com/?user=SyedSohaib456&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="495"/>
+</td>
+</tr>
+</table>
 
-<img src="https://streak-stats.demolab.com/?user=SyedSohaib456&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyedSohaib456&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyedSohaib456&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="400"/>
+</div>
 
 </div>
 
@@ -439,12 +448,6 @@ const professionalProfile = {
 </td>
 </tr>
 </table>
-
-### **Technical Expertise**
-
-<img src="https://img.shields.io/badge/React%20Native-Expert-61DAFB?style=flat-square&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-Advanced-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Performance-Optimization-4ECDC4?style=flat-square&logo=speedtest&logoColor=white"/>
 
 </div>
 
