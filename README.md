@@ -151,8 +151,7 @@ const professionalProfile = {
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="50" height="50" />
-<br><strong>GitHub</strong>
+<img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" width="50" height="50" /><br><strong>GitHub</strong>
 </td>
 <td align="center" width="25%">
 <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" width="50" height="50" />
