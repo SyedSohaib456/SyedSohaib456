@@ -1,12 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=300&section=header&text=Syed%20Sohaib%20Hussain&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=React%20Native%20Developer%20|%20TypeScript%20Expert&descAlignY=51&descAlign=62"/>
+# Syed Sohaib Hussain
+## App Developer (React Native | TypeScript | JavaScript)
 
-<div align="center">
 <img src="https://img.shields.io/badge/React%20Native-Developer-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=20232A"/>
 <img src="https://img.shields.io/badge/TypeScript-Expert-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=20232A"/>
 <img src="https://img.shields.io/badge/Experience-2%2B%20Years-4ECDC4?style=for-the-badge&logo=calendar&logoColor=white&labelColor=20232A"/>
-</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=20232A"/>
@@ -40,7 +39,6 @@
 - Started with **React.js** creating modern, responsive web applications
 - Transitioned into **React Native** for mobile development
 - Currently working at **Dev Entity** as React Native Developer
-- Completed **React Native Practical Guide [2024]** certification
 - Focused on **clean, scalable, and maintainable code** architecture
 
 </td>
