@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&customColorList=0,2,2,5,30&height=280&section=header&text=Syed%20Sohaib%20Hussain&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=React%20Native%20Developer%20%7C%20JavaScript%20%26%20TypeScript%20Expert&descAlignY=55&descAlign=50"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=300&section=header&text=Syed%20Sohaib%20Hussain&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=React%20Native%20Developer%20|%20TypeScript%20Expert&descAlignY=51&descAlign=62"/>
 
 <div align="center">
 <img src="https://img.shields.io/badge/React%20Native-Developer-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=20232A"/>
@@ -330,17 +330,17 @@ const professionalProfile = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SyedSohaib456&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&text_color=FFFFFF" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=SyedSohaib456&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SyedSohaib456&theme=dark&hide_border=true&background=0D1117&stroke=00F5FF&ring=00F5FF&fire=FF6B6B&currStreakLabel=00F5FF" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=SyedSohaib456&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyedSohaib456&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyedSohaib456&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 </div>
 
 ### **Contribution Graph**
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SyedSohaib456&custom_title=Development%20Activity&bg_color=0D1117&color=00F5FF&line=00F5FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SyedSohaib456&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 
 ### **Professional Metrics**
 
@@ -373,32 +373,16 @@ const professionalProfile = {
 
 <div align="center">
 
-</div>
-
----
+## **Featured Projects & Professional Work**
 
 <div align="center">
 
----
-
-<div align="center">
-
-</div>
-
----
-
-<div align="center">
-
-## 🚀 **Featured Projects & Innovation Lab**
-
-<div align="center">
-
-### 💡 **Professional Projects**
+### **Professional Projects**
 
 <table>
 <tr>
 <td align="center" width="100%">
-<h3>🏢 **Enterprise Mobile Applications**</h3>
+<h3>**Enterprise Mobile Applications**</h3>
 <p><strong>React Native • TypeScript • Redux Toolkit</strong></p>
 <br>
 <p><em>Working on large-scale mobile applications at Dev Entity. Due to professional agreements and confidentiality, specific project details cannot be disclosed. Focus areas include:</em></p>
@@ -498,6 +482,6 @@ const professionalProfile = {
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&customColorList=0,2,2,5,30&height=200&section=footer&text=Thanks%20for%20visiting!&fontSize=35&fontColor=fff&animation=fadeIn&fontAlignY=65&desc=Let's%20build%20something%20amazing%20together&descAlignY=80&descAlign=50"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=200&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=65&desc=Let's%20build%20something%20amazing%20together&descAlignY=80&descAlign=50"/>
 
 </div>
