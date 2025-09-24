@@ -1,25 +1,6 @@
 <div align="center">
 
-# Syed Sohaib Hussain
-## App Developer (React Native | TypeScript | JavaScript)
-
-<img src="https://img.shields.io/badge/React%20Native-Developer-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=20232A"/>
-<img src="https://img.shields.io/badge/TypeScript-Expert-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=20232A"/>
-<img src="https://img.shields.io/badge/Experience-2%2B%20Years-4ECDC4?style=for-the-badge&logo=calendar&logoColor=white&labelColor=20232A"/>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=20232A"/>
-  <img src="https://img.shields.io/badge/Passion-Mobile%20Development-FF6B6B?style=for-the-badge&logo=smartphone&logoColor=white&labelColor=2C3E50"/>
-  <img src="https://img.shields.io/badge/Company-Dev%20Entity-4ECDC4?style=for-the-badge&logo=building&logoColor=white&labelColor=2C3E50"/>
-</p>
-
-</div>
-
----
-
-<div align="center">
-
-## 🌟 About Me
+## About Me
 
 <table>
 <tr>
