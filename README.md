@@ -326,8 +326,8 @@ const professionalProfile = {
 </div>
 
 ### **Contribution Graph**
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SyedSohaib456&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+  <img width="100%"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SyedSohaib456&theme=github_dark" />
+<!-- <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SyedSohaib456&theme=tokyo-night&hide_border=true" alt="Contribution Graph" /> -->
 
 ### **Professional Metrics**
 
